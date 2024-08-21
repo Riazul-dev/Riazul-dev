@@ -15,22 +15,4 @@ Welcome to my GitHub profile! I'm a passionate front-end web developer with a ke
 
 ---
 
-## 🌟 Featured Projects
-
-### [Project Name 1](#)
-A brief description of your project, what technologies you used, and the problem it solves.
-
-### [Project Name 2](#)
-Another project that showcases your skills, with a focus on the tools and technologies you've used.
-
----
-
-## 🚀 What I'm Currently Working On
-
-- Learning new front-end technologies and frameworks.
-- Building a personal portfolio website to showcase my work.
-- Contributing to open-source projects.
-
----
-
 Thanks for visiting my profile! Let's build something great together!
