@@ -8,11 +8,10 @@ Welcome to my GitHub profile! I'm a passionate front-end web developer with a ke
 
 ## 🔧 Technologies & Tools
 
-- **HTML5**: Crafting semantic, accessible, and SEO-friendly web pages.
-- **CSS3**: Designing responsive layouts and animations.
-- **JavaScript**: Adding interactivity and dynamic content.
-- **ReactJS**: Building modern, component-based user interfaces.
-- **TailwindCSS**: Quickly styling applications with utility-first CSS.
+- **Language**: JavaScript.
+- **Web Development**: CSS DOM Manipulation, Async js, APIs, Git & Version Control.
+- **WebDev Tools**: VSCode, Github, Figma, Netlify.
+- **Frameworks**: ReactJS, TailwindCSS.
 
 ---
 
@@ -31,15 +30,6 @@ Another project that showcases your skills, with a focus on the tools and techno
 - Learning new front-end technologies and frameworks.
 - Building a personal portfolio website to showcase my work.
 - Contributing to open-source projects.
-
----
-
-## 📫 Get in Touch
-
-
-- **Email**: riazul4u@gmail.com
-
-I'm always open to collaboration and new opportunities. Feel free to reach out!
 
 ---
 
