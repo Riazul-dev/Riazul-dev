@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate front-end web developer with a ke
 ## 🔧 Technologies & Tools
 
 - **Language**: JavaScript.
-- **Web Development**: CSS DOM Manipulation, Async js, APIs, Git & Version Control.
+- **Web Development**: DOM Manipulation, Async js, APIs, Git & Version Control.
 - **WebDev Tools**: VSCode, Github, Figma, Netlify.
 - **Frameworks**: ReactJS, TailwindCSS.
 
