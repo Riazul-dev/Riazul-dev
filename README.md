@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Riazul Karim!
+# Hello, I'm Riazul Karim!
 
 ### Frontend Web Developer | HTML5 | CSS3 | JavaScript | ReactJS | TailwindCSS
 
