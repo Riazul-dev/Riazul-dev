@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate front-end web developer with a ke
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 - **Language**: JavaScript.
 - **Web Development**: DOM Manipulation, Async js, APIs, Git & Version Control.
